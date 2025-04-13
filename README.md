@@ -13,3 +13,9 @@
 <div style="text-align: justify"> Neste caderno 
 
 ## 🗂️ MNIST - Dataset
+
+## 🏋️‍♀️ Construindo e Treinando a CNN
+
+## 🔢 Resultados Obtidos
+
+## 😁 Conclusão
