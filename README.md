@@ -21,8 +21,8 @@
 ## 😁 Conclusão
 
 ## 🧠 Contribuições dos Colaboradores
-[<img align="center" src="https://avatars.githubusercontent.com/u/172424897?v=4" width=115>](https://github.com/MEmilyGomes)
-[<img align="center" src="https://avatars.githubusercontent.com/u/171518829?v=4" width=115>](https://github.com/yasminbshimizu)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172424897?v=4" width=115><br><sub> Maria Emily Nayla</sub>](https://github.com/MEmilyGomes)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/9482558334105708)<br> |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171518829?v=4" width=115><br><sub>Yasmin Shimizu</sub>](https://github.com/yasminbshimizu)<br> [<sub>Currículo Lattes</sub>](https://github.com/yasminbshimizu)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/yasmin-bshimz/) | 
+| :---: | :---: | 
 
 #### Para o Projeto:
 * Emily Gomes: Atualizações na construção de uma CNN utilizando o Lightning.
