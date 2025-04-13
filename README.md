@@ -21,11 +21,14 @@
 ## 😁 Conclusão
 
 ## 🧠 Contribuições dos Colaboradores
+[<img align="center" src="https://avatars.githubusercontent.com/u/172424897?v=4" width=115>](https://github.com/MEmilyGomes)
+[<img align="center" src="https://avatars.githubusercontent.com/u/171518829?v=4" width=115>](https://github.com/yasminbshimizu)
+
 #### Para o Projeto:
 * Emily Gomes: Atualizações na construção de uma CNN utilizando o Lightning.
 * Yasmin Shimizu: Atualizações na construção de uma CNN utilizando o Lightning.
 
 #### Para o Repositório GitHub:
-* Emily Gomes: Readme e códigos.
-* Yasmin Shimizu: Imagens, Readme.
+* Emily Gomes: README e códigos.
+* Yasmin Shimizu: Imagens, README.
   
