@@ -32,8 +32,8 @@
 | :---: | :---: | 
 
 #### Para o Projeto:
-* Emily Gomes: Atualizações na construção, treinamento e análise de resultados de uma CNN utilizando o Lightning.
-* Yasmin Shimizu: Atualizações na construção, treinamento e análise de resultados de uma CNN utilizando o Lightning.
+* Emily Gomes: Atualizações na construção, treinamento e análise da previsão de uma CNN utilizando o Lightning.
+* Yasmin Shimizu: Atualizações na construção, treinamento e análise da previsão de uma CNN utilizando o Lightning.
 
 #### Para o Repositório GitHub:
 * Emily Gomes: README e upload do notebook Jupyter referente a construção, treinamento e previsão da CNN.
