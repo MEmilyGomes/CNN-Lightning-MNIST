@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://intranet.cnpem.br/arquivo/editor/file/000_LOGOTIPOS/Ilum_sem%20assinatura.png" alt="Descrição da imagem" width="600"/>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ccb6f5f1-0e07-4eb2-aa7c-5f681c57a59c" alt="Descrição da imagem" width="1000"/>
+</div>
 
 <h1 align="center">Redes Neurais Convolucionais (CNN) 📸:</h1>
 
