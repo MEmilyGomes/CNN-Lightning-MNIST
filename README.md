@@ -19,3 +19,13 @@
 ## 🔢 Resultados Obtidos
 
 ## 😁 Conclusão
+
+## 🧠 Contribuições dos Colaboradores
+#### Para o Projeto:
+* Emily Gomes: Atualizações na construção de uma CNN utilizando o Lightning.
+* Yasmin Shimizu: Atualizações na construção de uma CNN utilizando o Lightning.
+
+#### Para o Repositório GitHub:
+* Emily Gomes: Readme e códigos.
+* Yasmin Shimizu: Imagens, Readme.
+  
