@@ -4,7 +4,12 @@
 
 <h1 align="center">Redes Neurais Convolucionais (CNN) 📸:</h1>
 
-<h2 align="center">E se os dados forem imagens?</h2>
+<h3 align="center">Classificando imagens do dataset MNIST com o módulo Lightning</h3>
 
 <p align="center"><strong>Autores:</strong> Maria Emily Nayla Gomes da Silva e Yasmin Barbosa Shimizu</p>
 <p align="center"><strong>Professor:</strong> Daniel R. Cassar</p>
+
+## 📝 Introdução
+<div style="text-align: justify"> Neste caderno 
+
+## 🗂️ MNIST - Dataset
