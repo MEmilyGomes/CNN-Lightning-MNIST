@@ -13,10 +13,17 @@
 <div style="text-align: justify"> Neste caderno 
 
 ## 🗂️ MNIST - Dataset
+<div align="center">
+  <img src="Imagens/24Imagens_MNIST.png" alt="Descrição da imagem" width="1000"/>
+</div>
 
 ## 🏋️‍♀️ Construindo e Treinando a CNN
 
 ## 🔢 Resultados Obtidos
+<div align="center">
+  <img src="Imagens/Matriz de Confusão - MNIST.png" alt="Descrição da imagem" width="500"/>
+</div>
+
 
 ## 😁 Conclusão
 
@@ -30,5 +37,5 @@
 
 #### Para o Repositório GitHub:
 * Emily Gomes: README e códigos.
-* Yasmin Shimizu: Imagens, README.
+* Yasmin Shimizu: Imagens e README.
   
