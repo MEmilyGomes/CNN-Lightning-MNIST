@@ -46,6 +46,17 @@
 <p align="justify">A biblioteca Lightning mostrou-se bastante eficiente para lidar com os dados disponíveis. Especificamente, trabalhamos com um grande volume de dados e com baixa variabilidade entre os exemplos. Ainda assim, apenas duas épocas de treinamento com três filtros foram suficientes para alcançar uma acurácia superior a 98%. Dessa forma, consideramos essa ferramenta bastante poderosa.</p>
 
 ## 🖇️ Informações técnicas
+* Linguagem de programação
+  - Python 3.9
+* Software
+  - Jupyter Notebook
+* Bibliotecas e Módulos
+  - Torch
+  - Lightning
+  - Typing
+  - Scikit-learn
+  - Seaborn
+<br>
 
 ## 👩‍🦳 Referências
 
