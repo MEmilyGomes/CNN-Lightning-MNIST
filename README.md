@@ -59,6 +59,11 @@
 <br>
 
 ## 👩‍🦳 Referências
+$1$ [**Nicola, Nicholas Di. “nicholas-dinicola/Lightning-Series"**](https://github.com/nicholas-dinicola/Lightning-Series)  
+Acesso em 12 de abril de 2025. 
+
+$2$ [**GeeksforGeeks. “MNIST Dataset : Practical Applications Using Keras and PyTorch"**](https://www.geeksforgeeks.org/mnist-dataset/)  
+Acesso em 12 de abril de 2025.
 
 
 ## 🧠 Contribuições dos Colaboradores
