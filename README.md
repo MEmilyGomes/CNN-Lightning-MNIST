@@ -9,6 +9,10 @@
 <p align="center"><strong>Autores:</strong> Maria Emily Nayla Gomes da Silva e Yasmin Barbosa Shimizu</p>
 <p align="center"><strong>Orientador:</strong> Prof. Dr. Daniel R. Cassar</p>
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 ## 📝 Descrição
 <p align="justify"> O trabalho apresenta a construção de uma Rede Neural Convolucional (CNN) utilizando dados do dataset MNIST, o qual contém inúmeros tensores de imagens em preto e branco, acompanhados de seus respectivos rótulos (labels) representando os dígitos. A partir de um código de referência [adicionar], foram realizadas modificações para torná-lo compatível com a biblioteca Lightning, permitindo a obtenção de um modelo otimizado para a identificação de números manuscritos. Para avaliar a qualidade do modelo, também foi gerada uma matriz de confusão.</p>
 
