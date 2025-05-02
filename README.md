@@ -39,9 +39,15 @@
 </div>
 
 ## 🏋️‍♀️ Construindo e Treinando a CNN
+
+<p align="justify">
+ Para a contrução da rede, foi usado como base o código desenvolvido por Nicola [1]. As alterações feitas estão relacionadas à biblioteca <code>Lightning</code>, que passou por atualizações nos últimos anos, deixando-a um pouco mais independente do <code>Pytorch</code>. Além disso, criamos os atributos <code>.y_true</code> e <code>.y_pred</code>, que salva as <i>labels</i> reais e previstas, respectivamente, para possibilitar o plot de uma matriz de confução com os resultados. Também excluímos a função <code>main</code> para treinar e testar a rede manualmente, como feito em aula, e definimos a taxa de aprendizado fora da classe. Como o objetivo aqui é apenas testar a funcionalidade da rede construída, o treinamento foi feito em poucas épocas, com <code>NUM_EPOCAS = 5</code>. Por fim, todo o código foi comentado para melhor entendimento da estrutura da CNN.
+</p>
+
+  <!-- 
 <p align="justify"> -> Biblioteca Lighting</p>
 <p align="justify"> -> Cross Entropy</p>
-
+ -->
 
 
 ## 🔢 Resultados Obtidos
