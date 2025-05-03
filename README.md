@@ -9,9 +9,11 @@
 <p align="center"><strong>Autores:</strong> Maria Emily Nayla Gomes da Silva e Yasmin Barbosa Shimizu</p>
 <p align="center"><strong>Orientador:</strong> Prof. Dr. Daniel R. Cassar</p>
 
+ <!-- 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+ -->
 
 ## 📝 Descrição
 <p align="justify"> 
