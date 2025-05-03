@@ -15,11 +15,13 @@
 
 ## 📝 Descrição
 <p align="justify"> 
-  Redes neurais convolucionais (CNN, do inglês <i>Convolutional Neural Networks</i>) são algoritmos de <i>deep learning</i> que reconhecem padrões específicos que caracterizam e distinguem classes em imagens. São compostas, seguindo a estrutura padrão de redes neurais artificiais, por uma camada de entrada, uma camada de saída, e camadas ocultas de processamento, diferenciando-se nas últimas, as quais são compostas pela combinação de camadas convolucionais e de <i>pooling</i>. [3]
-    
-  As camadas convolucionais de uma CNN são caracterizadas por aplicar filtros na imagem, realçando regiões e traços característicos para a classificação. Já a camada de <i>pooling</i> reduz a dimensão da imagem, condensando as informações de vários pixel da região -- o <i>MaxPooling</i>, por exemplo, utiliza apenas o valor de maior píxel em blocos 2x2. Em geral, camadas convolucionais e de <i>pooling</i> são construídas em sequência, até que a matriz, após os processamentos anteriores, apresente apenas um ou poucos pixels que serão combinados e efetivamente associados a uma das classes. [3]
-    
-  Este trabalho apresenta a construção de uma CNN utilizando dados do <i>dataset</i> <code>MNIST</code> importado do <code>PyTorch</code>, o qual contém inúmeros tensores de imagens em preto e branco, acompanhados de seus respectivos rótulos (<i>labels</i>) representando os dígitos. Partindo do código de referência feito por Nicola [1], foram realizadas modificações para torná-lo compatível com a biblioteca <code>Lightning</code>, permitindo a obtenção de um modelo otimizado para a identificação de números manuscritos. Para avaliar a qualidade do modelo, também foi gerada uma matriz de confusão.
+  Redes neurais convolucionais (CNN, do inglês <i>Convolutional Neural Networks</i>) são algoritmos de <i>deep learning</i> que reconhecem padrões específicos que caracterizam e distinguem classes em imagens. São compostas, seguindo a estrutura padrão de redes neurais artificiais, por uma camada de entrada, uma camada de saída, e camadas ocultas de processamento, diferenciando-se nas últimas, as quais são compostas pela combinação de camadas convolucionais e de <i>pooling</i>. [3] </p>
+
+<p align="justify">
+  As camadas convolucionais de uma CNN são caracterizadas por aplicar filtros na imagem, realçando regiões e traços característicos para a classificação. Já a camada de <i>pooling</i> reduz a dimensão da imagem, condensando as informações de vários pixel da região -- o <i>MaxPooling</i>, por exemplo, utiliza apenas o valor de maior píxel em blocos 2x2. Em geral, camadas convolucionais e de <i>pooling</i> são construídas em sequência, até que a matriz, após os processamentos anteriores, apresente apenas um ou poucos pixels que serão combinados e efetivamente associados a uma das classes. [3] </p>
+
+<p align="justify">
+  Este trabalho apresenta a construção de uma CNN utilizando dados do <i>dataset</i> <code>MNIST</code> importado do <code>PyTorch</code>, o qual contém inúmeros tensores de imagens em preto e branco, acompanhados de seus respectivos rótulos (<i>labels</i>) representando os dígitos. Partindo do código de referência feito por Nicola [1], foram realizadas modificações para torná-lo compatível com a biblioteca <code>Lightning</code>, permitindo a obtenção de um modelo otimizado para a identificação de números manuscritos. Para avaliar a qualidade do modelo, também foi gerada uma matriz de confusão.</p>
 </p>
 
 ## 📔 Notebooks e arquivos do projeto
